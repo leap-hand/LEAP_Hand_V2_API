@@ -7,8 +7,8 @@ For details about the LEAP Hand V2 hardware, features, and latest updates, visit
 
 ## Software Setup
 
-- **Python API:** [LEAP Hand Python API]()  
-- **ROS 2 API:** [LEAP Hand ROS 2 Module]()  
+- **Python API:** [LEAP Hand Python API](https://github.com/leap-hand/LEAP_Hand_V2_API/tree/main/leap_v2_python)  
+- **ROS 2 API:** [LEAP Hand ROS 2 Module](https://github.com/leap-hand/LEAP_Hand_V2_API/tree/main/leap_v2_ros2)  
 
 ## Hardware Setup
 
