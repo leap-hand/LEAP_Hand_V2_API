@@ -22,6 +22,7 @@ For details about the LEAP Hand V2 hardware, features, and latest updates, visit
     -  If needed, you can fine-tune the calibration by manually editing the minimum and maximum position values in that CSV.
     - You can also rerun the calibration script if for some reason the finger behavior changes.
 6. If you are on Windows you can use their FD Studio, otherwise check the `config_tools` folder to change the ID and straighten the motors.
+
 **Tip:** Improve USB latency on Ubuntu by adjusting the latency timer:
 ```bash
 # Check latency (default is 16)
